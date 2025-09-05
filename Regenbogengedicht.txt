@@ -1,3 +1,4 @@
+weiss
 Rot
 Orange
 Gelb
@@ -5,3 +6,4 @@ Grün
 Blau
 Indigo
 Violett
+Schwarz
